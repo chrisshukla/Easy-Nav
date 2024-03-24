@@ -5,3 +5,4 @@ Since this project Is in developing stages it has been made in three parts :
 	The pathfinding part of the program (currently only implemented for the 1st floor)
 	The render of the map as the user passes for the future implementation of live tracking
 	The 3d model of the first floor
+
