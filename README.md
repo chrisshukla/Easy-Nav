@@ -18,5 +18,6 @@ Since this project Is in developing stages it has been made in three parts :
 3.The 3d model of the first floor
 # Future Scope
 1.Development of an Mobile App
+
 2.Implementation of the map and navigation in 3D for increasing the interaction from the user side
 
