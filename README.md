@@ -20,4 +20,7 @@ Since this project Is in developing stages it has been made in three parts :
 1.Development of an Mobile App
 
 2.Implementation of the map and navigation in 3D for increasing the interaction from the user side
-
+# Refrences
+[Euclidean Distance | Calculation, Formula & Examples | Study.com
+](https://study.com/academy/lesson/euclidean-distance-calculation-formula-examples.html)https://study.com/academy/lesson/euclidean-distance-calculation-formula-examples.html
+http://mappedin.com
